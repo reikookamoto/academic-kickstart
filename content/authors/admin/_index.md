@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Reiko Okamoto
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master of Data Science student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The University of British Columbia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
